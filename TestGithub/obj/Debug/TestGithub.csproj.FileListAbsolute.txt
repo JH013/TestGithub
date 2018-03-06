@@ -1,0 +1,6 @@
+E:\WZ_WorkSpace\TestGithub\TestGithub\bin\Debug\TestGithub.exe.config
+E:\WZ_WorkSpace\TestGithub\TestGithub\bin\Debug\TestGithub.exe
+E:\WZ_WorkSpace\TestGithub\TestGithub\bin\Debug\TestGithub.pdb
+E:\WZ_WorkSpace\TestGithub\TestGithub\obj\Debug\TestGithub.csprojResolveAssemblyReference.cache
+E:\WZ_WorkSpace\TestGithub\TestGithub\obj\Debug\TestGithub.exe
+E:\WZ_WorkSpace\TestGithub\TestGithub\obj\Debug\TestGithub.pdb
